@@ -1,0 +1,39 @@
+body {
+  /* background-color: #080357; */
+  background-color: #592941;
+}
+.hero-container {
+  padding: 0;
+}
+.main-img {
+  width: 100%;
+}
+.content {
+  position: relative;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+h1{
+  font-size: 50px;
+  color: #F3DE8A;
+  border: 1px solid #F3DE8A;
+  /* color: #CAE7B9;
+  border: 1px solid #CAE7B9;  */
+  padding: 10%;
+  font-weight: 100;
+
+
+}
+.intro {
+  margin: 1.5em;
+  text-indent: 2em;
+  color: #bcc5cb;
+}
