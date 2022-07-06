@@ -22,12 +22,13 @@ body {
   transform: translate(-50%,-50%);
 }
 h1{
-  font-size: 50px;
+  font-size: 75px;
   color: #F3DE8A;
   border: 1px solid #F3DE8A;
   /* color: #CAE7B9;
   border: 1px solid #CAE7B9;  */
   padding: 10%;
+  font-family: 'Tangerine', cursive;
   font-weight: 100;
 
 
