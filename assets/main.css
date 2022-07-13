@@ -33,8 +33,37 @@ h1{
 
 
 }
-.intro {
+.float-right{
+  float: right;
+}
+h2 {
+  text-align: center;
+  margin-top: 10%;
+  font-size: 50px;
+  color: white;
+
+  /* color: #CAE7B9;
+  border: 1px solid #CAE7B9;  */
+
+  font-family: 'Tangerine', cursive;
+  font-weight: 100;
+}
+.text-content {
   margin: 1.5em;
-  text-indent: 2em;
+
   color: #bcc5cb;
+}
+.indented {
+  text-indent: 2em;
+}
+.img-grid img {
+  width: 100%;
+  padding: 15px 0 15px 0;
+}
+.bg-green {
+  background-color: #CAE7B9;
+}
+.img-in-text {
+
+  margin-left: 10px;
 }
