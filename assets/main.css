@@ -1,3 +1,21 @@
+nav{
+  background-color: black;
+
+
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  justify-content: center;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
 body {
   /* background-color: #080357; */
   background-color: #592941;
@@ -66,4 +84,16 @@ h2 {
 .img-in-text {
 
   margin-left: 10px;
+}
+
+table{
+  color: white;
+}
+
+table th {
+  padding-bottom: 10px;
+}
+table td {
+  padding: 10px;
+  border: 1px solid white;
 }
