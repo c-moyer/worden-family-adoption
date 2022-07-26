@@ -97,3 +97,24 @@ table td {
   padding: 10px;
   border: 1px solid white;
 }
+
+.our-story-imgs{
+  margin-top: 50px;
+}
+
+.image-list img{
+  width: 100%;
+}
+
+.image-list .indented{
+  margin-top: -10px;
+  margin-left: 10px;
+}
+
+.image-list .overlapped {
+  margin-top: -10px;
+}
+
+.our-story-text p{
+  color: white;
+}
