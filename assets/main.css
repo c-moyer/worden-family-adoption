@@ -118,3 +118,8 @@ table td {
 .our-story-text p{
   color: white;
 }
+
+.our-story-text img{
+  width: 100%;
+  margin: 20px 0 20px 0;
+}
